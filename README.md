@@ -1,6 +1,6 @@
 # mc
 step by step:
-1. Click the green <code> option at the top and click download as zip --> extract all the files.
+1. Click the green <>code option at the top and click download as zip --> extract all the files.
 2. close mc - open fabric installer - install 1.21.4 version
 3. close fabric installer - open fabric loader in mc launcher
 4. close mc again
