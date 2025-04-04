@@ -3,7 +3,7 @@ step by step:
 1. close mc - open fabric installer - install 1.21.4 version
 2. close fabric installer - open fabric loader in mc launcher
 3. close mc again
-4. Press Win+R and copy/paste -> %AppData%\.minecraft\mods and press Ok
+4. Press Win+R and copy/paste -> %AppData%\\.minecraft\mods and press Ok
 5. Install all the .jar files in the "mods" folder --> place them in above folder.
 6. Open the launcher and click installations at the top -> click fabric-loader -> more options -> scroll down -> you will see "-Xmx2G -XX" -> change the 2 to an 8
 8. Open minecraft and go to settings -> video --> set render and simulation distance to 6 chunks and hit apply
