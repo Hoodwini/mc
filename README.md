@@ -6,7 +6,7 @@ step by step:
 4. close mc again
 5. download https://downloads.essential.gg/v1/mods/essential/essential-pinned/updates/1.3.5.11/fabric_1-21-4/?action=download 
 6. Press Win+R and copy/paste -> %AppData%\\.minecraft\mods and press Ok
-7. Install all the .jar files and essentials.jar in the "mods" folder
+7. Install and move all the .jar files and essentials in the "mods" folder
 8. Open the launcher and click 'installations' at the top -> click fabric-loader -> more options -> scroll down -> you will see "-Xmx2G -XX" -> change the 2 to an 8
 9. Open minecraft and go to settings -> video --> set render and simulation distance to 6 chunks and hit apply
 10. In the video tab go to shaders at the top right -> open shaders pack folder
