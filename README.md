@@ -9,10 +9,10 @@ step by step:
 7. Install all the .jar files and essentials in the "mods" folder
 8. Open the launcher and click 'installations' at the top -> click fabric-loader -> more options -> scroll down -> you will see "-Xmx2G -XX" -> change the 2 to an 8
 9. Open minecraft and go to settings -> video --> set render and simulation distance to 6 chunks and hit apply
-10. go to shaders at the top right -> open shaders folder
+10. In the video tab go to shaders at the top right -> open shaders pack folder
 11. drag the .zip file in the "shaders" folder into the new folder (dont unzip)
 12. Select the shader and enable it
 13. download all the resource packs in "resources" folder
 14. Go to the main menu -> resource packs -> open pack folder--> drag all resources into here
-15. go back in mc and add all resource packs to the right side except for "high contrast" and "programmer art" --> make sure all the "AL's" resourcepacks are above the rest
+15. go back in mc and add all resource packs to the right side except for "high contrast" and "programmer art" --> make sure the "Fresh Animations" is at the bottom of the list.
 
