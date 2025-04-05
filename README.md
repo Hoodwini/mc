@@ -8,7 +8,7 @@ step by step:
 6. Press Win+R and copy/paste -> %AppData%\\.minecraft\mods and press Ok
 7. Install and move all the .jar files and essentials in the "mods" folder
 8. Open the launcher and click 'installations' at the top -> click fabric-loader -> more options -> scroll down -> you will see "-Xmx2G -XX" -> change the 2 to an 8
-9. Open minecraft and go to settings -> video --> set render and simulation distance to 6 chunks and hit apply
+9. Open minecraft and go to settings -> video --> set render and simulation distance to 6 chunks and hit apply -> go to performance settings and disabled "Always defer chunk updates" --> enable "use fog occlusion".
 10. In the video tab go to shaders at the top right -> open shaders pack folder
 11. drag the .zip file in the "shaders" folder into the new folder (DONT UNZIP)
 12. Select the shader and enable it
@@ -17,4 +17,4 @@ step by step:
 15. go back in mc and add all resource packs to the right side except for "high contrast" and "programmer art" --> make sure the "Fresh Animations" is at the bottom of the list.
 16. join server and start rendering takes a few minutes.
 17. while rendering change your video settings --> turn off vsync and set fps to unlimited.
-18. go back and set fov --> next to fov select the box on the left of it --> set lod chunks to 128 instead of 256
+18. go back and set fov --> next to fov select the box on the left of it --> set lod chunks to 512, medium drop off distance, high veritcal quality, complete transparency.
