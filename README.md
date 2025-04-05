@@ -8,7 +8,7 @@ step by step:
 6. Press Win+R and copy/paste -> %AppData%\\.minecraft\mods and press Ok
 7. Install and move all the .jar files and essentials in the "mods" folder
 8. Open the launcher and click 'installations' at the top -> click fabric-loader -> more options -> scroll down -> you will see "-Xmx2G -XX" -> change the 2 to an 8
-9. Open minecraft and go to settings -> video --> set render and simulation distance to 6 chunks and hit apply -> go to performance settings and disabled "Always defer chunk updates" --> enable "use fog occlusion".
+9. Open minecraft and go to settings -> video --> set "render" and "simulation distance" to 8 chunks and hit apply -> go to performance settings and disabled "Always defer chunk updates" --> enable "use fog occlusion".
 10. In the video tab go to shaders at the top right -> open shaders pack folder
 11. drag the .zip file in the "shaders" folder into the new folder (DONT UNZIP)
 12. Select the shader and enable it
