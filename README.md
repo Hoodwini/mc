@@ -11,7 +11,7 @@ step by step:
 9. Open minecraft and go to settings -> video --> set "render" and "simulation distance" to 8 chunks and hit apply -> go to performance settings and disabled "Always defer chunk updates" --> enable "use fog occlusion".
 10. In the video tab go to shaders at the top right -> open shaders pack folder
 11. drag the .zip file in the "shaders" folder into the new folder (DONT UNZIP)
-12. Select the shader and enable it
+12. Select the shader and enable it --> click shader pack settings --> direct light --> turn sun luminance down to your preference.
 13. download all the resource packs in "resources" folder (dont unzip zip files)
 14. Go to the main menu -> resource packs -> open pack folder--> drag all resources into here
 15. go back in mc and add all resource packs to the right side except for "high contrast" and "programmer art" --> make sure the "Fresh Animations" is at the bottom of the list.
